@@ -12,4 +12,4 @@ Užití spuštěného kontejneru, např v browseru sledování vytvořené webov
 Odevzdávat jako odkaz na Váš github, kde by měl být váš sourcode a Dockerfile. Image, moduly tam samozřejmě být nemusí. To se zbuildí.
 
 ## Foto dokumentace 
-![web docker](file:///C:/Users/Adam/Desktop/scrn/webdocker.png)
+![webdocker](https://user-images.githubusercontent.com/90351003/227781466-bbfc45f1-8d23-45ec-adf3-529c4b3fa855.png)
