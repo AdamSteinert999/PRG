@@ -1,5 +1,5 @@
 # Práce s Docker 
-
+- S Dockerem byla trochu práce jelikož se mu moc nechtělo a někdy vyhdoil celý počítač i modrou smrt ale nakonec se vše povedlo rozjet. :)
 
 ## Zadání
 - Nainstalovat Docker
