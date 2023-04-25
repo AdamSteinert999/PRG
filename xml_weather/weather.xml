@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather>
+    <location>
+        <city>Prague</city>
+        <country>Czech Republic</country>
+    </location>
+    <current>
+        <temperature>16</temperature>
+        <humidity>70</humidity>
+        <description>Partly cloudy</description>
+    </current>
+</weather>
