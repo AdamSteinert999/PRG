@@ -1,0 +1,11 @@
+{
+    "location": {
+        "city": "Prague",
+        "country": "Czech Republic"
+    },
+    "current": {
+        "temperature": 16,
+        "humidity": 70,
+        "description": "Partly cloudy"
+    }
+}
