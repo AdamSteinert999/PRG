@@ -1,0 +1,25 @@
+{
+  "user1": {
+    "id":1,
+    "name":"Munonye",
+    "email":"kany@gmail.com"
+  },
+
+  "user2":  {
+    "id":2,
+    "name":"Imolode",
+    "email":"saffron@gmail.com"
+  },
+
+  "user3":  {
+    "id":3,
+    "name":"Munonye",
+    "email":"othniel@gmail.com"
+  },
+
+  "user4": {
+    "id":4,
+    "name":"Yuba",
+    "email":"oleander@gmail.com"
+  }
+}
